@@ -1,0 +1,6 @@
+{
+  "name": "MediaSaver Pro",
+  "description": "Social media video, audio, and image downloader powered by SaveAPI with download manager, media library, and history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
